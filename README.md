@@ -26,3 +26,8 @@
   * https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
   * https://numpy.org/doc/stable/reference/generated/numpy.concatenate.html
   * 
+
+Scikitlearn:
+  * https://scikit-learn.org/stable/
+  * https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+  * 
