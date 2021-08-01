@@ -25,9 +25,14 @@
 ## Numpy:
   * https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
   * https://numpy.org/doc/stable/reference/generated/numpy.concatenate.html
-  * 
+  * Shape mismatch: https://numpy.org/doc/stable/reference/generated/numpy.ravel.html
 
 Scikitlearn:
   * https://scikit-learn.org/stable/
   * https://scikit-learn.org/stable/tutorial/basic/tutorial.html
-  * 
+  * https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
+  * https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+
+
+Neural Networks:
+  * /https://www.wired.com/story/inside-black-box-of-neural-network/
