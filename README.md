@@ -21,6 +21,7 @@
   * Sort Values: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
   * fillna: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html
   * Replace: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html
+  * Dummy variables: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html
 
 ### Numpy:
   * https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
@@ -32,6 +33,7 @@
   * https://scikit-learn.org/stable/tutorial/basic/tutorial.html
   * https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
   * https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+  * https://scikit-learn.org/stable/modules/model_evaluation.html
 
 
 ### Neural Networks:
