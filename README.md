@@ -20,3 +20,9 @@
   * Pandas UGuide: https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
   * Sort Values: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
   * fillna: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html
+  * Replace: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html
+
+## Numpy:
+  * https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+  * https://numpy.org/doc/stable/reference/generated/numpy.concatenate.html
+  * 
