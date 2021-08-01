@@ -22,6 +22,7 @@
   * fillna: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html
   * Replace: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html
   * Dummy variables: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html
+  * Min-max scaler: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
 
 ### Numpy:
   * https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
