@@ -30,11 +30,12 @@
   * Shape mismatch: https://numpy.org/doc/stable/reference/generated/numpy.ravel.html
 
 ## Scikitlearn:
-  * https://scikit-learn.org/stable/
-  * https://scikit-learn.org/stable/tutorial/basic/tutorial.html
-  * https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
-  * https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
-  * https://scikit-learn.org/stable/modules/model_evaluation.html
+  * SKLEARN homepage: https://scikit-learn.org/stable/
+  * Basic SKLEARN tutorial: https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+  * sklearn datasets: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
+  * Split & CV: https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+  * Model Eval: https://scikit-learn.org/stable/modules/model_evaluation.html
+  * Train/test split: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 
 
 ### Neural Networks:
