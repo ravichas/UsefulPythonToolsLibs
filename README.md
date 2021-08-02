@@ -40,3 +40,8 @@
 
 ### Neural Networks:
   * /https://www.wired.com/story/inside-black-box-of-neural-network/
+
+
+### Other useful google tools
+  * Google Docs templates: https://docs.google.com/document/u/0/
+  * 
